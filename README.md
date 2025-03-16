@@ -1,13 +1,37 @@
-<h1 align="center">Hi 👋, I'm Baptiste Le Duc</h1>
-<h3 align="center">A french software student at Grenoble INP-Ensimag. Passionate about IT and its ability to solve real-world problems, my goal is to harness the power of computer science to improve the field of healthcare.</h3>
+# 👋 Hi there ! 
 
-- 📝 I regularly write posts on LinkedIn [https://www.linkedin.com/in/baptiste-le-duc/](https://www.linkedin.com/in/baptiste-le-duc/)
+Technology has the power to transform healthcare. My goal? Building innovative software solutions to save lives
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/baptiste-le-duc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baptiste-le-duc" height="30" width="40" /></a>
-</p>
+I am **Baptiste Le Duc**, a second-year student at **ENSIMAG**, the top computer science schools in France. Passionate about IT and its ability to solve real-world problems, I have a strong interest in:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+- **Systems programming**
+- **Embedded systems**
+- **Software architecture**
 
+## 🔥 Professional Experience
+
+- **Software Engineer Intern – Eaton (2024)**
+  - Developed a **PDU simulator** integrated into the CI pipeline (Python, C, Jenkins, Docker).  
+  - Explored **LLM integration** with Matomo for AI-powered analytics (Mistral AI, Langchain, SQL).  
+
+- **Software Developer – Atraltech (2023)**
+  - Built a **PostgreSQL database** and a **FastAPI-based API** for product testing software.  
+  - Designed scalable Python software for **first product conformity testing**.  
+
+## 🛠️ Languages & Technologies
+
+- **Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black) ![VHDL](https://img.shields.io/badge/VHDL-8B0000?style=flat) ![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat)
+
+- **CI/CD Tools**: ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+## 🚀 Projects & Contributions
+
+I am actively working on **systems programming and low-level computing projects**, exploring topics like **operating systems, networking, and embedded systems**. You can check out my projects on my GitHub profile. 
+
+## 💡 Interests
+
+- **Entrepreneurship**: I am passionate about **startups** and the **medtech industry**, constantly exploring how technology can drive innovation in healthcare.
+- **Music**: I play bass in **REVESTY**, a **rock/grunge band** from Grenoble. You can check out our music her : [our linktree](https://revestyofficial.com). 
+
+📫 **Feel free to reach out to discuss potential collaborations!**
+Contact me at [baptiste.leduc38@gmail.com](mailto:baptiste.leduc38@gmail.com).  
