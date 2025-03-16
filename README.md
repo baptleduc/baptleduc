@@ -2,7 +2,7 @@
 
 Technology has the power to transform healthcare. My goal ? Building innovative software solutions to save lives
 
-I am **Baptiste Le Duc**, a second-year student at ![ENSIMAG](https://ensimag.grenoble-inp.fr/en), the best computer science schools in France (*Le Figaro*, *L'étudiant*). Passionate about IT and its ability to solve real-world problems, I have a strong interest in:
+I am **Baptiste Le Duc**, a second-year student at [ENSIMAG](https://ensimag.grenoble-inp.fr/en), the best computer science schools in France (*Le Figaro*, *L'étudiant*). Passionate about IT and its ability to solve real-world problems, I have a strong interest in:
 
 - **Systems programming**
 - **Embedded systems**
