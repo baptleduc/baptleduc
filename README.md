@@ -1,8 +1,8 @@
-# 👋 Hi there ! 
+# 👋 Hi ! 
 
-Technology has the power to transform healthcare. My goal? Building innovative software solutions to save lives
+Technology has the power to transform healthcare. My goal ? Building innovative software solutions to save lives
 
-I am **Baptiste Le Duc**, a second-year student at **ENSIMAG**, the top computer science schools in France. Passionate about IT and its ability to solve real-world problems, I have a strong interest in:
+I am **Baptiste Le Duc**, a second-year student at ![ENSIMAG](https://ensimag.grenoble-inp.fr/en), the best computer science schools in France (*Le Figaro*, *L'étudiant*). Passionate about IT and its ability to solve real-world problems, I have a strong interest in:
 
 - **Systems programming**
 - **Embedded systems**
@@ -34,4 +34,5 @@ I am actively working on **systems programming and low-level computing projects*
 - **Music**: I play bass in **REVESTY**, a **rock/grunge band** from Grenoble. You can check out our music her : [our linktree](https://revestyofficial.com). 
 
 📫 **Feel free to reach out to discuss potential collaborations!**
+
 Contact me at [baptiste.leduc38@gmail.com](mailto:baptiste.leduc38@gmail.com).  
