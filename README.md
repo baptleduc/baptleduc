@@ -1,4 +1,4 @@
-# 👋 Hi ! 
+# Hi ! 
 
 Technology has the power to transform healthcare. My goal ? Building innovative software solutions to save lives
 
