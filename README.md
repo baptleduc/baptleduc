@@ -33,6 +33,6 @@ I am actively working on **systems programming and low-level computing projects*
 - **Entrepreneurship**: I am passionate about **startups** and the **medtech industry**, constantly exploring how technology can drive innovation in healthcare.
 - **Music**: I play bass in **REVESTY**, a **rock/grunge band** from Grenoble. You can check out our music her : [our linktree](https://revestyofficial.com). 
 
-📫 **Feel free to reach out to discuss potential collaborations!**
+**Feel free to reach out to discuss potential collaborations!**
 
 Contact me at [baptiste.leduc38@gmail.com](mailto:baptiste.leduc38@gmail.com).  
