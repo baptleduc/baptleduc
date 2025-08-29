@@ -20,7 +20,8 @@ I am **Baptiste Le Duc**, a second-year student at [ENSIMAG](https://ensimag.gre
 
 ## Languages & Technologies
 
-- **Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black) ![VHDL](https://img.shields.io/badge/VHDL-8B0000?style=flat) ![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat)
+- **Languages**: ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=orange) ![Assembly](https://img.shields.io/badge/-Assembly-000?&logo=assemblyscript)
+ ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![VHDL](https://img.shields.io/badge/VHDL-8B0000?style=flat) 
 
 - **CI/CD Tools**: ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
