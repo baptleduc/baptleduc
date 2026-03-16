@@ -1,22 +1,13 @@
 # Hi ! 
 
-Technology has the power to transform healthcare. My goal ? Building innovative software solutions to save lives
+I'm **Baptiste Le Duc**, a Hypervisor & Kernel Engineer Intern at [Vates](https://vates.tech),
+working on adding RISC-V support to the Xen hypervisor.
 
-I am **Baptiste Le Duc**, a second-year student at [ENSIMAG](https://ensimag.grenoble-inp.fr/en), the best computer science schools in France (*Le Figaro*, *L'étudiant*). Passionate about IT and its ability to solve real-world problems, I have a strong interest in:
+## Open Source Contributions
 
-- **Systems programming**
-- **Embedded systems**
-- **Software architecture**
-
-## Professional Experience
-
-- **Software Engineer Intern – Eaton (2024)**
-  - Developed a **PDU simulator** integrated into the CI pipeline (Python, C, Jenkins, Docker).  
-  - Explored **LLM integration** with Matomo for AI-powered analytics (Mistral AI, Langchain, SQL).  
-
-- **Software Developer – Atraltech (2023)**
-  - Built a **PostgreSQL database** and a **FastAPI-based API** for product testing software.  
-  - Designed scalable Python software for **first product conformity testing**.  
+- **[Xen Project](https://xenproject.org/)** — RISC-V architecture port (hypervisor + dom0 Linux guest)
+- **[Ariel-OS](https://github.com/ariel-os/ariel-os)** — Adding a support for a new board
+- **[RIOT-OS](https://github.com/RIOT-OS/RIOT)** — Adding a common ADS1X1X driver
 
 ## Languages & Technologies
 
@@ -25,15 +16,11 @@ I am **Baptiste Le Duc**, a second-year student at [ENSIMAG](https://ensimag.gre
 
 - **CI/CD Tools**: ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-## Projects & Contributions
-
-I am actively working on **systems programming and low-level computing projects**, exploring topics like **operating systems, networking, and embedded systems**. You can check out my projects on my GitHub profile. 
-
 ## Interests
 
 - **Entrepreneurship**: I am passionate about **startups** and the **medtech industry**, constantly exploring how technology can drive innovation in healthcare.
-- **Music**: I play bass in **REVESTY**, a **rock/grunge band** from Grenoble. You can check out our music her : [our linktree](https://revestyofficial.com). 
+- **Music**: I play bass in **REVESTY**, a **rock/grunge band**. You can check out our music her : [our linktree](https://revestyofficial.com). 
 
 **Feel free to reach out to discuss potential collaborations!**
 
-Contact me at [baptiste.leduc38@gmail.com](mailto:baptiste.leduc38@gmail.com).  
+Contact me at [baptiste.leduc@etik.com](mailto:baptiste.leduc@etik.com).  
