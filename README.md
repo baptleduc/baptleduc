@@ -1,7 +1,8 @@
-# Hi ! 
+<h1 align="left ">Hi there, I'm Baptiste Le Duc <img
+src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
-I'm **Baptiste Le Duc**, a Hypervisor & Kernel Engineer Intern at [Vates](https://vates.tech),
-working on adding RISC-V support to the Xen hypervisor.
+> Hypervisor & Kernel Engineer Intern at [Vates](https://vates.tech)
+> porting [Xen](https://xenproject.org/) to RISC-V
 
 ## Open Source Contributions
 
@@ -24,3 +25,5 @@ working on adding RISC-V support to the Xen hypervisor.
 **Feel free to reach out to discuss potential collaborations!**
 
 Contact me at [baptiste.leduc@etik.com](mailto:baptiste.leduc@etik.com).  
+
+![Snake animation](https://github.com/baptleduc/baptleduc/blob/output/github-contribution-grid-snake.svg)
