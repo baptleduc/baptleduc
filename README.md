@@ -28,7 +28,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 ## Interests
 
 - **Entrepreneurship**: I am passionate about **startups** and the **medtech industry**, constantly exploring how technology can drive innovation in healthcare.
-- **Music**: I play bass in **REVESTY**, a **rock/grunge band**. You can check out our music her : [our linktree](https://revestyofficial.com). 
+- **Music**: I play bass in **REVESTY**, a **rock/grunge band**. You can check out our music her : [our linktree](https://linktr.ee/revesty). 
 
 ## Let's connect
 <div>
