@@ -4,6 +4,10 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 > Hypervisor & Kernel Engineer Intern at [Vates](https://vates.tech)
 > porting [Xen](https://xenproject.org/) to RISC-V
 
+What happens below the OS? That question never left me. As a Junior Hypervisor & Kernel Engineer, I’m currently porting RISC-V to Xen and exploring low-level software layers to understand (at least try) what makes modern computing possible.
+
+To me, this is where Europe’s technological sovereignty begins: with software we can understand from the ground up, audit, and trust.
+
 ## Open Source Contributor
 
 - **[Xen Project](https://xenproject.org/)**
