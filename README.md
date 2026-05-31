@@ -4,11 +4,11 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 > Hypervisor & Kernel Engineer Intern at [Vates](https://vates.tech)
 > porting [Xen](https://xenproject.org/) to RISC-V
 
-## Open Source Contributions
+## Open Source Contributor
 
-- **[Xen Project](https://xenproject.org/)** — RISC-V architecture port (hypervisor + dom0 Linux guest)
-- **[Ariel-OS](https://github.com/ariel-os/ariel-os)** — Adding a support for a new board
-- **[RIOT-OS](https://github.com/RIOT-OS/RIOT)** — Adding a common ADS1X1X driver
+- **[Xen Project](https://xenproject.org/)**
+- **[Ariel-OS](https://github.com/ariel-os/ariel-os)**
+- **[RIOT-OS](https://github.com/RIOT-OS/RIOT)**
 
 ## Languages & Technologies
 
