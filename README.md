@@ -36,7 +36,7 @@ To me, this is where Europe’s technological sovereignty begins: with software 
 
 ## Let's connect
 <div>
-<a href="mailto:baptiste.leduc@etik.com">
+<a href="mailto:dawdler-conch-same@duck.com">
   <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=minutemailer&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/baptiste-le-duc">
