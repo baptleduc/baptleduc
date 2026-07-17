@@ -1,7 +1,7 @@
 <h1 align="left ">Hi there, I'm Baptiste Le Duc <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
-> Hypervisor & Kernel Engineer Intern at [Vates](https://vates.tech)
+> Hypervisor & Kernel Engineer at [Vates](https://vates.tech)
 > porting [Xen](https://xenproject.org/) to RISC-V
 
 What happens below the OS? That question never left me. As a Junior Hypervisor & Kernel Engineer, I’m currently porting RISC-V to Xen and exploring low-level software layers to understand (at least try) what makes modern computing possible.
